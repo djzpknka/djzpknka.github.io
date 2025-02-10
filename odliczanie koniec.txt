@@ -47,6 +47,10 @@
 
         updateCountdown();
         setInterval(updateCountdown, 1000);
+  </script>
+</body>
+</html>
+
 <!DOCTYPE html>
 <html>
 <body>
@@ -54,6 +58,4 @@
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
-    </script>
-</body>
-</html>
+  
